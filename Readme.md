@@ -1,5 +1,3 @@
-# Blogger-Security-O-Auth-2-
-
   **Spring Security With Oauth 2**
  =============
 
